@@ -682,7 +682,7 @@ If paired with [`TiltAngle`](#tiltangle), the primary controls (open/close/stop)
 
 #### `TiltAngle`
 
-Items that represent the title angle of a window blind.
+Items that represent the tilt angle of a window blind.
 
 If paired with [`PositionState`](#positionstate), the primary controls (open/close/stop) can be defined as position-based or tilt-based setting metadata parameter `primaryControl="tilt"` at the group level.
 
